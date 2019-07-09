@@ -1,6 +1,11 @@
 # YOLO
 
 
+# Latest 
+https://github.com/pascal1129/yolo_person_detect    
+https://github.com/eriklindernoren/PyTorch-YOLOv3    
+
+
 ## YOLO
 
 https://pjreddie.com/darknet/yolo/
