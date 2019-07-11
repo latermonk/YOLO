@@ -11,6 +11,10 @@ https://www.youtube.com/playlist?list=PL_Nji0JOuXg1gNDFvJ8xU3dAFw27Oqz3J
 **blog**      
 https://github.com/reigngt09/yolov3workflow
 
+--------
+
+https://www.youtube.com/watch?v=R0hipZXJjlI&list=PLFWSRQdgMiET5RKsIL0OzvVzQtGEPLyLe     
+
 
 
 
