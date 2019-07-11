@@ -1,5 +1,18 @@
 # YOLO
 
+
+# YOLO实战   
+
+**v**
+https://www.youtube.com/watch?v=Y73SWT79Rck&list=PL_Nji0JOuXg1gNDFvJ8xU3dAFw27Oqz3J&index=10&t=0s
+
+**blog**
+https://github.com/reigngt09/yolov3workflow
+
+
+
+
+
 #  Yolo@B
 ##  Yolo-v3 and Yolo-v2 for Windows and Linux     
 https://github.com/AlexeyAB/darknet
