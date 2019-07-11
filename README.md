@@ -1,5 +1,15 @@
 # YOLO
 
+#  Yolo@B
+##  Yolo-v3 and Yolo-v2 for Windows and Linux     
+https://github.com/AlexeyAB/darknet
+
+https://www.bilibili.com/video/av52546152?from=search&seid=10180874326095339504   
+
+
+
+
+
 
 # Latest 
 https://github.com/pascal1129/yolo_person_detect    
