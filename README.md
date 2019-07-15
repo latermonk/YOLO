@@ -5,6 +5,9 @@
 
 https://www.learnopencv.com/deep-learning-based-object-detection-using-yolov3-with-opencv-python-c/   
 
+https://github.com/AlexeyAB/darknet#requirements    
+
+
 
 
 # YOLO实战   
